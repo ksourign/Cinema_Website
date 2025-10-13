@@ -1,0 +1,38 @@
+body{margin:0;background: #222;font-family: arial;font-weight: 300; }
+.container{width: 90%;margin 0 auto;}
+header{background: #FF7F27;}
+header::after{content: '';display: table;clear: both;}
+.logo {margin-left: 20px;float: left;height: 80px;width: 200px;padding: 10px 0;}
+nav{float: right;}
+nav ul {margin: 0;padding: 0;list-style: none;}
+nav li{display: inline-block;margin-left: 30px;padding-top: 25px;position: relative;}
+nav a {color: #444;text-decoration: none;font-size: 14px;}
+nav a:hover{color: white;}
+nav a::before {content: '';display: block;height: 5px;width: 100%;background-color: #444;position: absolute;top: 0;width: 0%;transition: all ease-in-out 250ms;}
+nav a:hover::before{width: 100%;}
+
+<!-- nav style -->
+
+table {color:black; padding-left:250px; padding-right:250px; padding-bottom:80px; border-spacing:10px 20px; background-color:#595959; box-shadow:inset 0px 0px 200px black; border:none;}
+td {vertical-align:top; border:none;}
+footer {text-align:center; color:white; padding:40px; background-color:#141414}
+#title {font-size:35px; color:#FF7F27; text-align:left; border:none;}
+
+.label {color:white;font-size:20px; font-weight:14; padding-top:20px;}
+
+desc:visited {color:white;}
+desc:link {color:white; text-decoration:none;}
+desc:hover {text-decoration:underline; text-decoration-color:white;}
+.picnav:hover img {transform:scale(1.02);}
+
+p {padding-left:10px; padding-right:20px;}
+.details {line-height:2;}
+.description {background-color:#FF7F27; width:100%; border-top-right-radius:10px; border-bottom-right-radius:10px;}
+
+table { margin: 100px;}
+#a01 img{
+	width:200px;
+	
+}
+
+

@@ -1,0 +1,33 @@
+body{margin:0;background: #222;font-family: arial;font-weight: 300;  }
+.container{width: 90%;margin 0 auto;}
+header{background: #FF7F27;}
+header::after{content: '';display: table;clear: both;}
+.logo {margin-left: 20px;float: left;height: 80px;width: 200px;padding: 10px 0;}
+nav{float: right;}
+nav ul {margin: 0;padding: 0;list-style: none;}
+nav li{display: inline-block;margin-left: 30px;padding-top: 25px;position: relative;}
+nav a {color: #444;text-decoration: none;font-size: 14px;}
+nav a:hover{color: white;}
+nav a::before {content: '';display: block;height: 5px;width: 100%;background-color: #444;position: absolute;top: 0;width: 0%;transition: all ease-in-out 250ms;}
+nav a:hover::before{width: 100%;}
+
+
+/*Movie Description pages*/
+
+table {color:white; padding-top:10px; border-spacing:10px; padding-bottom:70px; background-color:#3d3d3d; box-shadow:inset 0px 0px 200px black; padding-left:200px; padding-right:200px; border:none;}
+td {vertical-align:top; padding-bottom:15px;border:none;}
+.td_description {padding-left:20px; width:100%; padding-right:10px; border:none;}
+footer {text-align:center; color:white; padding:40px; background-color:#141414;}
+
+
+#poster{width:340px; height:500px; padding-bottom:20px; float:left;}
+iframe{border-width:0; width:100%; height:350px;}
+.synopsis{padding-right:200px; text-align:justify; line-height:2;}
+.length_rate{line-height:1.5;}
+
+
+#cast_title {margin-top:20px;}
+.cast {margin-top:20px; font-size:18px; text-align:justify; line-height:2; font-weight:bold; padding-left:20px;}
+i{font-size:16px; font-weight:normal;}
+
+
