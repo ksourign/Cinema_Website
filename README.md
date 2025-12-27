@@ -1,4 +1,4 @@
-The Cinema website was developed as a group project in an *Internet Application Development* course.  
+This Cinema website was developed as a group project in an *Internet Application Development* course.  
 ***Note:*** My contributions to the project are the **See a Movie** pages
 
 **The website features the following pages:** <br>
