@@ -8,7 +8,7 @@ This Cinema website was developed as a group project in an *Internet Application
 ![alt text](/README_images/upcoming_movies.png)
 ![alt text](/README_images/upcoming_movies_trailer.png) 
 
-- **See a Movie** (my contributions for the group project)
+- **See a Movie (my contributions for the group project)**
 ![alt text](/README_images/see_a_movie.png) 
 ![alt text](/README_images/see_a_movie_trailer.png) 
 - **Ticketing** <br>
